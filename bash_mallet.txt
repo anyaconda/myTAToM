@@ -1,0 +1,26 @@
+#part. Working with Text - unified file 1 thru 5.
+mallet import-dir --input C:\Users\chq-anyac\miniconda\myTAToM\data\austen-bronte-split\ --output C:\Users\chq-anyac\miniconda\myTAToM\tmp\topic-input-austen-bronte.mallet --keep-sequence --remove-stopwords
+mallet train-topics --input C:\Users\chq-anyac\miniconda\myTAToM\tmp\topic-input-austen-bronte.mallet --num-topics 20 --output-doc-topics C:\Users\chq-anyac\miniconda\myTAToM\tmp\doc-topics-austen-bronte.txt --output-topic-keys C:\Users\chq-anyac\miniconda\myTAToM\tmp\topic-keys-austen-bronte.txt --random-seed 1
+
+
+#part6 redone. TopicModelVis
+c:\mallet>bin\mallet import-dir --input C:\Users\chq-anyac\miniconda\myTAToM\data\austen-bronte-split\ --output C:\Users\chq-anyac\miniconda\myTAToM\tmp6Vis\topic-input.mallet --keep-sequence --remove-stopwords
+Labels =
+   C:\Users\chq-anyac\miniconda\myTAToM\data\austen-bronte-split\
+
+c:\mallet>bin\mallet train-topics --input C:\Users\chq-anyac\miniconda\myTAToM\tmp6Vis\topic-input.mallet --num-topics 5 --output-doc-topics C:\Users\chq-anyac\miniconda\myTAToM\tmp6Vis\doc-topics.txt --output-topic-keys C:\Users\chq-anyac\miniconda\myTAToM\tmp6Vis\topic-keys.txt --word-topic-counts-file C:\Users\chq-anyac\miniconda\myTAToM\tmp6Vis\word-topic.txt
+
+#part7. VisTrends
+c:\mallet>bin\mallet import-dir --input C:\Users\chq-anyac\miniconda\myTAToM\data\hugo-les-miserables-split\ --output C:\Users\chq-anyac\miniconda\myTAToM\tmp\my_topic-input-hugo-les-miserables-split.mallet --keep-sequence --remove-stopwords --stoplist-file C:\Users\chq-anyac\miniconda\myTAToM\data\stopwords\french.txt --token-regex '[\p{L}\p{M}]+'
+Labels =
+   C:\Users\chq-anyac\miniconda\myTAToM\data\hugo-les-miserables-split\
+--------------------------
+#part6 was . TopicModelVis
+
+c:\mallet>bin\mallet import-dir --input C:\Users\chq-anyac\miniconda\myTAToM\data\austen-bronte-split\ --output C:\Users\chq-anyac\miniconda\myTAToM\tmp\my5_topic-input-austen-bronte.mallet --keep-sequence --remove-stopwords
+Labels =
+   C:\Users\chq-anyac\miniconda\myTAToM\data\austen-bronte-split\
+
+c:\mallet>bin\mallet train-topics --input C:\Users\chq-anyac\miniconda\myTAToM\tmp\my5_topic-input-austen-bronte.mallet --num-topics 5 --output-doc-topics C:\Users\chq-anyac\miniconda\myTAToM\tmp\my5_doc-topics-austen-bronte.txt --output-topic-keys C:\Users\chq-anyac\miniconda\myTAToM\tmp\my5_topic-keys-austen-bronte.txt
+
+

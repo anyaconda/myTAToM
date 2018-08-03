@@ -1,0 +1,21 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>"green"</th>
+      <th>not "green"</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Austen</th>
+      <td>11</td>
+      <td>374596</td>
+    </tr>
+    <tr>
+      <th>C. Bronte</th>
+      <td>96</td>
+      <td>404720</td>
+    </tr>
+  </tbody>
+</table>

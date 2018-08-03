@@ -1,0 +1,26 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>dark</th>
+      <th>green</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>p(delta&lt;0)</th>
+      <td>0.85</td>
+      <td>0.69</td>
+    </tr>
+    <tr>
+      <th>Austen average</th>
+      <td>0.03</td>
+      <td>0.03</td>
+    </tr>
+    <tr>
+      <th>Bronte average</th>
+      <td>0.47</td>
+      <td>0.24</td>
+    </tr>
+  </tbody>
+</table>

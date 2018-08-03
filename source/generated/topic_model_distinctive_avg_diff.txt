@@ -1,0 +1,245 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Topic 2</th>
+      <th>Topic 3</th>
+      <th>Topic 4</th>
+      <th>Topic 5</th>
+      <th>Topic 10</th>
+      <th>Topic 12</th>
+      <th>Topic 13</th>
+      <th>Topic 15</th>
+      <th>Topic 17</th>
+      <th>Topic 18</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Austen_Emma</th>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.10</td>
+      <td>0.02</td>
+      <td>0.01</td>
+      <td>0.01</td>
+      <td>0.13</td>
+      <td>0.00</td>
+      <td>0.01</td>
+      <td>0.16</td>
+    </tr>
+    <tr>
+      <th>Austen_Pride</th>
+      <td>0.01</td>
+      <td>0.25</td>
+      <td>0.05</td>
+      <td>0.02</td>
+      <td>0.01</td>
+      <td>0.01</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.01</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Austen_Sense</th>
+      <td>0.24</td>
+      <td>0.01</td>
+      <td>0.10</td>
+      <td>0.02</td>
+      <td>0.01</td>
+      <td>0.01</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.18</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>CBronte_Jane</th>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.04</td>
+      <td>0.21</td>
+      <td>0.02</td>
+      <td>0.04</td>
+      <td>0.00</td>
+      <td>0.01</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>CBronte_Professor</th>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.01</td>
+      <td>0.19</td>
+      <td>0.02</td>
+      <td>0.30</td>
+      <td>0.00</td>
+      <td>0.04</td>
+      <td>0.01</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>CBronte_Villette</th>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.03</td>
+      <td>0.14</td>
+      <td>0.14</td>
+      <td>0.09</td>
+      <td>0.00</td>
+      <td>0.14</td>
+      <td>0.02</td>
+      <td>0.00</td>
+    </tr>
+  </tbody>
+</table><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Topic 2</th>
+      <td>marianne</td>
+      <td>elinor</td>
+      <td>willoughby</td>
+      <td>sister</td>
+      <td>jennings</td>
+      <td>mother</td>
+      <td>colonel</td>
+      <td>dashwood</td>
+      <td>mrs</td>
+      <td>brandon</td>
+    </tr>
+    <tr>
+      <th>Topic 3</th>
+      <td>elizabeth</td>
+      <td>darcy</td>
+      <td>bingley</td>
+      <td>mr</td>
+      <td>sister</td>
+      <td>bennet</td>
+      <td>wickham</td>
+      <td>miss</td>
+      <td>soon</td>
+      <td>lydia</td>
+    </tr>
+    <tr>
+      <th>Topic 4</th>
+      <td>mrs</td>
+      <td>did</td>
+      <td>quite</td>
+      <td>elton</td>
+      <td>room</td>
+      <td>come</td>
+      <td>good</td>
+      <td>thing</td>
+      <td>said</td>
+      <td>weston</td>
+    </tr>
+    <tr>
+      <th>Topic 5</th>
+      <td>like</td>
+      <td>room</td>
+      <td>door</td>
+      <td>night</td>
+      <td>long</td>
+      <td>saw</td>
+      <td>thought</td>
+      <td>looked</td>
+      <td>house</td>
+      <td>time</td>
+    </tr>
+    <tr>
+      <th>Topic 10</th>
+      <td>little</td>
+      <td>graham</td>
+      <td>bretton</td>
+      <td>papa</td>
+      <td>dr</td>
+      <td>lucy</td>
+      <td>like</td>
+      <td>polly</td>
+      <td>home</td>
+      <td>child</td>
+    </tr>
+    <tr>
+      <th>Topic 12</th>
+      <td>monsieur</td>
+      <td>little</td>
+      <td>english</td>
+      <td>mdlle</td>
+      <td>frances</td>
+      <td>mademoiselle</td>
+      <td>vous</td>
+      <td>est</td>
+      <td>said</td>
+      <td>pelet</td>
+    </tr>
+    <tr>
+      <th>Topic 13</th>
+      <td>harriet</td>
+      <td>emma</td>
+      <td>elton</td>
+      <td>mr</td>
+      <td>friend</td>
+      <td>woodhouse</td>
+      <td>knightley</td>
+      <td>martin</td>
+      <td>think</td>
+      <td>good</td>
+    </tr>
+    <tr>
+      <th>Topic 15</th>
+      <td>madame</td>
+      <td>beck</td>
+      <td>dr</td>
+      <td>knew</td>
+      <td>little</td>
+      <td>door</td>
+      <td>day</td>
+      <td>paul</td>
+      <td>old</td>
+      <td>night</td>
+    </tr>
+    <tr>
+      <th>Topic 17</th>
+      <td>edward</td>
+      <td>elinor</td>
+      <td>lucy</td>
+      <td>ferrars</td>
+      <td>dashwood</td>
+      <td>sister</td>
+      <td>think</td>
+      <td>mother</td>
+      <td>say</td>
+      <td>time</td>
+    </tr>
+    <tr>
+      <th>Topic 18</th>
+      <td>emma</td>
+      <td>weston</td>
+      <td>mr</td>
+      <td>knightley</td>
+      <td>frank</td>
+      <td>churchill</td>
+      <td>thing</td>
+      <td>little</td>
+      <td>father</td>
+      <td>woodhouse</td>
+    </tr>
+  </tbody>
+</table>

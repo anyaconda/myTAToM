@@ -1,0 +1,84 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Topic 0</th>
+      <td>hand</td>
+      <td>good</td>
+      <td>madame</td>
+      <td>life</td>
+      <td>heart</td>
+      <td>thought</td>
+      <td>de</td>
+      <td>day</td>
+      <td>monsieur</td>
+      <td>eye</td>
+    </tr>
+    <tr>
+      <th>Topic 1</th>
+      <td>looked</td>
+      <td>found</td>
+      <td>side</td>
+      <td>speak</td>
+      <td>girl</td>
+      <td>gave</td>
+      <td>word</td>
+      <td>made</td>
+      <td>sense</td>
+      <td>eyes</td>
+    </tr>
+    <tr>
+      <th>Topic 2</th>
+      <td>night</td>
+      <td>room</td>
+      <td>door</td>
+      <td>long</td>
+      <td>house</td>
+      <td>rochester</td>
+      <td>round</td>
+      <td>hour</td>
+      <td>heard</td>
+      <td>back</td>
+    </tr>
+    <tr>
+      <th>Topic 3</th>
+      <td>mr</td>
+      <td>miss</td>
+      <td>mrs</td>
+      <td>emma</td>
+      <td>jane</td>
+      <td>good</td>
+      <td>elizabeth</td>
+      <td>thing</td>
+      <td>dear</td>
+      <td>great</td>
+    </tr>
+    <tr>
+      <th>Topic 4</th>
+      <td>elinor</td>
+      <td>mother</td>
+      <td>sister</td>
+      <td>marianne</td>
+      <td>time</td>
+      <td>mrs</td>
+      <td>felt</td>
+      <td>letter</td>
+      <td>make</td>
+      <td>john</td>
+    </tr>
+  </tbody>
+</table>
